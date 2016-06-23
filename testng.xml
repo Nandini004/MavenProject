@@ -3,7 +3,11 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="Examples.NewTest"/>
+      <class name="Examples.NewTest">
+		<methods>
+			<include name="f" />
+		</methods>
+	  </class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
