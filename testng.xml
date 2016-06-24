@@ -6,6 +6,7 @@
       <class name="Examples.NewTest">
 		<methods>
 			<include name="f" />
+			<include name ="login"/>
 		</methods>
 	  </class>
     </classes>
