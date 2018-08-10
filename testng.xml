@@ -9,6 +9,7 @@
 			<include name ="login"/>
 		</methods>
 	  </class>
+	  <class name="Examples.NewTest"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
